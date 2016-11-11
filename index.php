@@ -1,8 +1,4 @@
 <?php
-/*
-    方倍工作室 http://www.cnblogs.com/txw1958/
-    CopyRight 2013 www.doucube.com  All Rights Reserved
-*/
 //require "125.php";
 require "wenzhengxueyaun.class.php";
 define("TOKEN", "weixin");
